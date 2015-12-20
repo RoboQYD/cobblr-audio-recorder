@@ -1,0 +1,28 @@
+application: audio
+Init: True
+screen-size: [320, 240]
+icon-size: [40, 40]
+screen-modes:
+  1:
+    go_back: [1.25, 5.75]
+    record: [4.25, 5.75]
+    library: [7.75, 1.25]
+
+  2:
+    next: [7.75, 1.25]
+    previous: [1.25, 1.25]
+    
+    go_back: [1.25, 5.75]
+    stop: [2.5, 5.75]
+    play: [3.77, 5.75]
+    rewind: [5.1, 5.75]
+    fast_forward: [6.43, 5.75]
+    delete: [7.75, 5.75]
+
+  3:
+    go_back: [1.25, 5.75]
+    pause: [4.25, 5.75]
+
+  4:
+    accept: [3, 4.5]
+    decline: [6, 4.5]
