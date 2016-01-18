@@ -43,7 +43,13 @@ def Install(cobblr_path):
   module_files = [i for i in all_files if '.png' not in i]
 
   try:
-   module_files.remove('setup.py')
+    os.system('./dependencies.sh')
+    module_files.remove('dependencies.sh')
+  except:
+    pass
+
+  try:
+    module_files.remove('setup.py')
   except:
     pass
 
