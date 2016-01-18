@@ -1,4 +1,4 @@
-![alt  tag](https://raw.githubusercontent.com/RoboQYD/cobblr-camera/master/camera.png)
+![alt tag](https://raw.githubusercontent.com/TheQYD/cobblr-audio-recorder/master/audio.png)
 
 **Description:** This is the video recording application written for the Raspberry Pi's camera.
 
