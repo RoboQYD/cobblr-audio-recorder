@@ -1,6 +1,6 @@
 ![alt tag](https://raw.githubusercontent.com/TheQYD/cobblr-audio-recorder/master/audio.png)
 
-**Description:** This is the video recording application written for the Raspberry Pi's camera.
+**Description:** This is the audio recording application written for the Raspberry Pi's camera.
 
 **Requirements**
  1. Raspberry Pi (https://www.adafruit.com/products/2358)
@@ -14,7 +14,7 @@
 **Installation**
  1. Clone the repository.
  2. Enter the cobblr-audio-recorder directory.
- 3. Run "setup.py install "<path>" where "<path>" is the location of the cobblr folder.
+ 3. Run "setup.py install (path)" where "(path)" is the location of the cobblr folder.
  4. Enter the cobblr/config directory.
  5. Open "cobblr.yaml" and add "-audio" to the list of applications.
  6. Run cobblr.
