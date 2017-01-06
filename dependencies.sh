@@ -1,4 +1,4 @@
-aptitude -f install python-matplotlib
-aptitude -f install python-pyaudio
-aptitude -f install python-numpy
-aptitude -f install python-matplotlib-data
+python-matplotlib
+python-pyaudio
+python-numpy
+python-matplotlib-data
